@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::get('register', function () {
     return view('register');
 });
+
+Route::get('information', function () {
+    return view('information');
+});
+
