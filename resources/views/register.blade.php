@@ -12,10 +12,14 @@
 <body class="antialiased">
 
 
+<script src="/alert.js"></script>
+
 <div class="inline-flex rounded-md shadow">
-<div class="inline-flex rounded-md shadow">
-    <a href="/" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-purple-500 hover:bg-purple-500">Free 7 Day Trail</a>
-</div>
+
+
+
+
+
 </div>
 
 

@@ -9,8 +9,7 @@
         <script src="https://cdn.tailwindcss.com"></script>
     </head>
     <body class="antialiased bg-zinc-800">
-
-
+    
 
     <div class="inline-flex rounded-md shadow">
         <a href="information" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-zinc-800 hover:bg-zinc-800">Information</a>

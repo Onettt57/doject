@@ -7,13 +7,11 @@
     <title>Doject</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <script src="/alert.js"></script>
+
 </head>
 <body class="antialiased">
-
-
-
-
-
 
 
         </div>
