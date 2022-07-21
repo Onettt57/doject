@@ -8,7 +8,13 @@
 
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <script src="/alert.js"></script>
+    <div class="inline-flex rounded-md shadow">
+        <a href="/" class="inline-flex px-5 py-3 border border-transparent text-base font-large rounded-md text-white bg-blue-600 hover:bg-indigo-700">Go Back</a>
+    </div>
+
+
+
+
 
 </head>
 <body class="antialiased">
